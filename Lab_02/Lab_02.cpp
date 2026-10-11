@@ -1,4 +1,5 @@
 // Лабораторна робота № 2.1, варіант 1
+// Обчислення значень z1 та z2
 #include <iostream>
 #include <cmath>
 #include <iomanip>
